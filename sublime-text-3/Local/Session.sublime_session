@@ -1,0 +1,622 @@
+{
+	"folder_history":
+	[
+		"/home/aaron/dev/mlhc_project/MLHC",
+		"/home/aaron/CSc/138",
+		"/home/aaron/CSc/138/ProgrammingLabs",
+		"/home/aaron/CSc/134/sql/a5",
+		"/home/aaron/CSc/134/sql",
+		"/home/aaron/CSc/134",
+		"/home/aaron/dev/todos",
+		"/home/aaron/dev/github-battle",
+		"/home/aaron/dev/todoApp",
+		"/home/aaron/dev/mlhc_project"
+	],
+	"last_version": 3143,
+	"last_window_id": 42,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 299.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packagere",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 459.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/aaron/.local/bin/coretemp.sh",
+				"/home/aaron/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/aaron/dev/todoApp/.jshintrc",
+				"/home/aaron/.config/sublime-text-3/Packages/User/JavaScript.sublime-build",
+				"/home/aaron/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
+				"/home/aaron/.config/sublime-text-3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/home/aaron/dev/todoApp/app/reducer.js",
+				"/home/aaron/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/aaron/dev/todoApp/reducer.js",
+				"/home/aaron/.config/sublime-text-3/Packages/User/Material-Theme.tmTheme",
+				"/home/aaron/.config/sublime-text-3/Packages/Babel/Next.tmTheme",
+				"/home/aaron/dev/github-battle/app/components/App.js",
+				"/home/aaron/dev/github-battle/app/components/Home.js",
+				"/home/aaron/dev/github-battle/app/components/Battle.js",
+				"/home/aaron/.config/sublime-text-3/Packages/Material Theme/Material-Theme.sublime-theme",
+				"/home/aaron/dev/github-battle/webpack.config.js",
+				"/home/aaron/dev/github-battle/app/index.js",
+				"/home/aaron/dev/mlhc_project/MLHC/config/settings.py",
+				"/home/aaron/dev/mlhc_project/MLHC/config/settingsdev.py",
+				"/home/aaron/dev/mlhc_project/MLHC/employees/fixtures/EmployeeData.json",
+				"/home/aaron/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/aaron/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"counter",
+					"coutner",
+					"attribute",
+					"Attribute",
+					"Itali"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"app/index.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 172.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/aaron/CSc/138/ProgrammingLabs/SMTPClient.py",
+					"settings":
+					{
+						"buffer_size": 3134,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/aaron/CSc/138/ProgrammingLabs/ProxyServer.py",
+					"settings":
+					{
+						"buffer_size": 2916,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/aaron/CSc/138/ProgrammingLabs/ICMPPinger.py",
+					"settings":
+					{
+						"buffer_size": 4170,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "menu",
+				"selected_items":
+				[
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packagere",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 549.0
+			},
+			"console":
+			{
+				"height": 459.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/aaron/CSc/138/ProgrammingLabs",
+				"/home/aaron/dev/mlhc_project/MLHC",
+				"/home/aaron/dev/mlhc_project/MLHC/config"
+			],
+			"file_history":
+			[
+				"/home/aaron/dev/mlhc_project/MLHC/config/settings.py",
+				"/home/aaron/CSc/138/ProgrammingLabs/PLab2a_SMTPClient.py",
+				"/home/aaron/CSc/138/ProgrammingLabs/PLab2a_SMTPClient",
+				"/home/aaron/CSc/134/sql/a5/2_populate_db.sql",
+				"/home/aaron/CSc/134/sql/a5/3_query.sql",
+				"/home/aaron/CSc/134/sql/a5/1_create_table.sql",
+				"/home/aaron/hexEdit.c",
+				"/home/aaron/CSc/134/sql/1_create_table.sql",
+				"/home/aaron/CSc/134/sql/3_drop.sql",
+				"/home/aaron/CSc/134/sql/2_populate_db.sql",
+				"/home/aaron/CSc/138/UDPClient.py",
+				"/home/aaron/CSc/138/UDPServer.py",
+				"/home/aaron/CSc/138/UDPPingerClient.py",
+				"/home/aaron/CSc/138/WebServer.py",
+				"/home/aaron/CSc/138/UDPPingerServer.py",
+				"/home/aaron/CSc/138/TCPClient.py",
+				"/home/aaron/CSc/138/TCPServer.py",
+				"/home/aaron/CSc/138/index.html",
+				"/home/aaron/dev/todos/src/components/FilterLink.js",
+				"/home/aaron/dev/todos/src/components/VisibleTodoList.js",
+				"/home/aaron/dev/todos/webpack.config.js",
+				"/home/aaron/dev/todos/src/reducers/todos.js",
+				"/home/aaron/dev/todos/src/index.js",
+				"/home/aaron/dev/todos/src/reducers/todo.js",
+				"/home/aaron/dev/todos/src/configureStore.js",
+				"/home/aaron/dev/todos/src/components/TodoList.js",
+				"/home/aaron/dev/todos/src/components/App.js",
+				"/home/aaron/dev/todos/src/components/Root.js",
+				"/home/aaron/dev/todos/src/reducers/index.js",
+				"/home/aaron/dev/todos/src/localStorage.js",
+				"/home/aaron/dev/todos/src/actions/index.js",
+				"/home/aaron/dev/todos/src/components/Footer.js",
+				"/home/aaron/dev/todos/package.json",
+				"/home/aaron/dev/todos/dist/index.html",
+				"/home/aaron/dev/todos/index.html",
+				"/home/aaron/dev/todos/src/components/Todo.js",
+				"/home/aaron/dev/todos/src/components/Link.js",
+				"/home/aaron/dev/todos/src/components/AddTodo.js",
+				"/home/aaron/.local/bin/coretemp.sh",
+				"/home/aaron/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/aaron/dev/todoApp/.jshintrc",
+				"/home/aaron/.config/sublime-text-3/Packages/User/JavaScript.sublime-build",
+				"/home/aaron/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
+				"/home/aaron/.config/sublime-text-3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/home/aaron/dev/todoApp/app/reducer.js",
+				"/home/aaron/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/aaron/dev/todoApp/reducer.js",
+				"/home/aaron/.config/sublime-text-3/Packages/User/Material-Theme.tmTheme",
+				"/home/aaron/.config/sublime-text-3/Packages/Babel/Next.tmTheme",
+				"/home/aaron/dev/github-battle/app/components/App.js",
+				"/home/aaron/dev/github-battle/app/components/Home.js",
+				"/home/aaron/dev/github-battle/app/components/Battle.js",
+				"/home/aaron/.config/sublime-text-3/Packages/Material Theme/Material-Theme.sublime-theme",
+				"/home/aaron/dev/github-battle/webpack.config.js",
+				"/home/aaron/dev/github-battle/app/index.js",
+				"/home/aaron/dev/mlhc_project/MLHC/config/settingsdev.py",
+				"/home/aaron/dev/mlhc_project/MLHC/employees/fixtures/EmployeeData.json",
+				"/home/aaron/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/aaron/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"('",
+					"0553103547",
+					"PRIMARY",
+					" '",
+					"saveState",
+					"state",
+					"todos",
+					"export",
+					"counter",
+					"coutner",
+					"attribute",
+					"Attribute",
+					"Itali"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"8330418998"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/aaron/CSc/138/ProgrammingLabs"
+				},
+				{
+					"path": "/home/aaron/CSc/138"
+				},
+				{
+					"path": "/home/aaron/dev/mlhc_project/MLHC"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/aaron/CSc/138/ProgrammingLabs/SMTPClient.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3134,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3134,
+										3134
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"open_with_edit": true,
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/aaron/CSc/138/ProgrammingLabs/ProxyServer.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2916,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2691,
+										2691
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"open_with_edit": true,
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1699.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/aaron/CSc/138/ProgrammingLabs/ICMPPinger.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4170,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4170,
+										4170
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"open_with_edit": true,
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.934123847167,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,18,18,1898,1058,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"app/index.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 172.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 42,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
